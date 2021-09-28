@@ -1,0 +1,11 @@
+.vr-player{
+    margin-top: 70px;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    /* z-index: -1; */
+}
+.vr-player video{
+    width: 40%;
+    height: 40%;
+}
